@@ -1,0 +1,2 @@
+jeu de données:
+https://s3.eu-west-1.amazonaws.com/course.oc-static.com/projects/Data_Scientist_P8/fruits.zip
